@@ -32,6 +32,9 @@ It is an responsive web-app which allows users to create new notes, edit, save, 
 
 ---
 
+<p align="center"><strong>Edit Note</strong></p>
+
+![Edit Note]![image](https://user-images.githubusercontent.com/72139258/192284032-ccf18c90-cc30-4de0-aed3-d11003df01f9.png)
 
 
 <p align="center"><strong>Add Note Form</strong></p>
@@ -47,7 +50,6 @@ It is an responsive web-app which allows users to create new notes, edit, save, 
 
 ### Contributors
 
-1.
-2. 
-3. 
-4. 
+1.Priyanshu Singh
+2. Priyanshu Patel
+ 
