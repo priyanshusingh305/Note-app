@@ -38,7 +38,7 @@ It is an responsive web-app which allows users to create new notes, edit, save, 
 
 <p align="center"><strong>Add Note Form</strong></p>
 
-![New Note](https://github.com/SobhanDash/Team-B/blob/main/assets/newnote.png?raw=true)
+![New Note]![image](https://user-images.githubusercontent.com/72139258/192283473-d3a3fab5-3d04-4b4d-99f9-3e11679cd716.png)
 ### TechStack
 
 1.  HTML
