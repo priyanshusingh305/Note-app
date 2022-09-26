@@ -31,14 +31,12 @@ It is an responsive web-app which allows users to create new notes, edit, save, 
     View page
 
 ---
-<p align="center"><strong>Landing Page</strong></p>
 
-![Landing Page]![image](https://user-images.githubusercontent.com/72139258/192283359-d738932d-6347-4d4b-894e-8d7a1fe6da5f.png)
 
 
 <p align="center"><strong>Add Note Form</strong></p>
 
-![New Note]![image](https://user-images.githubusercontent.com/72139258/192283473-d3a3fab5-3d04-4b4d-99f9-3e11679cd716.png)
+![New Note]![image](https://user-images.githubusercontent.com/72139258/192283589-47a19710-942d-4364-917f-42cd774b7af2.png)
 ### TechStack
 
 1.  HTML
