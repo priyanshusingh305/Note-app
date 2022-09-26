@@ -38,7 +38,6 @@
 }
 
 .new-note {
-    font-weight:bolder;
     background-color: var(--primary-color);
     border: 1px solid var(--primary-color);
     color: var(--font-color);
