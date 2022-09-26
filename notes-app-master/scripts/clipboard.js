@@ -10,8 +10,9 @@ function myFunction() {
     navigator.clipboard.writeText(copyText.value);
     
     // Alert the copied text
-    // alert("Copied the text: " + copyText.value);
+    alert("Copied the text: " + copyText.value);
 }
+<<<<<<< HEAD
 
 
 
@@ -80,3 +81,5 @@ function myFunction() {
 //       textArea.classList.add("hidden");
 //     }
 //   };
+=======
+>>>>>>> parent of 5964ccd (some bugs in copy)
